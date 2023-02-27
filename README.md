@@ -1,3 +1,7 @@
+This is my first vue project in which I intentionally complicated few things in order to understand different concepts
+
+
+
 # todo
 
 ## Project setup
